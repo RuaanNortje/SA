@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         Button button8 = (Button) findViewById(R.id.button8);
         Button button9 = (Button) findViewById(R.id.button9);
 
+
         Button buttonDot = (Button) findViewById(R.id.buttonDot);
         Button buttonEquals = (Button) findViewById(R.id.buttonEquals);
         Button buttonDivide = (Button) findViewById(R.id.buttonDivide);
